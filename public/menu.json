@@ -51,7 +51,7 @@
         "_id": "642c155b2c4774f05c36ee94",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
         "category": "pizza",
         "price": 12.5
     },
@@ -67,7 +67,7 @@
         "_id": "642c155b2c4774f05c36eea6",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
         "category": "salad",
         "price": 13.5
     },
@@ -83,7 +83,7 @@
         "_id": "642c155b2c4774f05c36ee89",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
         "category": "dessert",
         "price": 13.5
     },
@@ -107,7 +107,7 @@
         "_id": "642c155b2c4774f05c36ee81",
         "name": "Tuna Niçoise",
         "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1256200170/photo/ni%C3%A7oise-salad-classic-french-salad-with-tuna-or-salmon-hard-boiled-eggs-green-beans-cherry.jpg?s=2048x2048&w=is&k=20&c=z__Ywmn7T8qmzbNVL01W8hiXGmXjFFR2PXxqGv_kSow=",
         "category": "offered",
         "price": 10.5
     },
@@ -115,7 +115,7 @@
         "_id": "642c155b2c4774f05c36ee84",
         "name": "Roast Duck Breast",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1580554530778-ca36943938b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "category": "dessert",
         "price": 14.5
     },
@@ -147,7 +147,7 @@
         "_id": "642c155b2c4774f05c36ee83",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
         "category": "offered",
         "price": 13.5
     },
@@ -179,7 +179,7 @@
         "_id": "642c155b2c4774f05c36ee80",
         "name": "Roast Duck Breast",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1670398564097-0762e1b30b3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
         "category": "offered",
         "price": 14.5
     },
@@ -195,7 +195,7 @@
         "_id": "642c155b2c4774f05c36eeb0",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "soup",
         "price": 13.5
     },
@@ -203,7 +203,7 @@
         "_id": "642c155b2c4774f05c36ee8d",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "dessert",
         "price": 13.5
     },
@@ -227,7 +227,7 @@
         "_id": "642c155b2c4774f05c36ee99",
         "name": "Goats Cheese Pizza",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
         "category": "pizza",
         "price": 14.5
     },
@@ -275,7 +275,7 @@
         "_id": "642c155b2c4774f05c36ee8b",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "dessert",
         "price": 13.5
     },
@@ -283,7 +283,7 @@
         "_id": "642c155b2c4774f05c36ee8f",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "dessert",
         "price": 13.5
     },
@@ -307,7 +307,7 @@
         "_id": "642c155b2c4774f05c36eea0",
         "name": "Roasted Pork Belly",
         "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "pizza",
         "price": 14.5
     },
@@ -339,7 +339,7 @@
         "_id": "642c155b2c4774f05c36ee95",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://media.istockphoto.com/id/1366491198/photo/grilled-chicken-breast-fillet-and-mix-salad-with-walnuts-pomegranate-and-balsamic-sauce-on.jpg?s=1024x1024&w=is&k=20&c=w_kdqgxdKk0iTASSESnBrIogUadWAmZ-fPD5ILUsm4w=",
         "category": "pizza",
         "price": 13.5
     },
@@ -347,7 +347,7 @@
         "_id": "642c155b2c4774f05c36ee9b",
         "name": "Goats Cheese Pizza",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         "category": "pizza",
         "price": 14.5
     },
@@ -371,7 +371,7 @@
         "_id": "642c155b2c4774f05c36ee9d",
         "name": "Goats Cheese Pizza",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
         "category": "pizza",
         "price": 14.5
     },
@@ -403,7 +403,7 @@
         "_id": "642c155b2c4774f05c36ee82",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/354/escalope-de-veau-sautee-3000x2000.jpg",
         "category": "offered",
         "price": 12.5
     },
@@ -411,7 +411,7 @@
         "_id": "642c155b2c4774f05c36ee86",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/354/escalope-de-veau-sautee-3000x2000.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -427,7 +427,7 @@
         "_id": "642c155b2c4774f05c36eeab",
         "name": "Goats Cheese Pizza",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2017/01/bbq-370x247.jpg",
+        "image": "https://images.unsplash.com/photo-1571066811602-716837d681de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=268&q=80",
         "category": "salad",
         "price": 14.5
     },

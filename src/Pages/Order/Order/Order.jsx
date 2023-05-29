@@ -6,6 +6,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import OrderTab from "../OrderTab/OrderTab";
 import { useParams } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 
 const Order = () => {
     const categories = ['salad','pizza','soup','dessert','drinks'];
@@ -25,6 +26,9 @@ const Order = () => {
 
   return (
     <div>
+          <Helmet>
+                <title>Bistro Boss | Order Food</title>
+            </Helmet>
       <Cover img={orderImg}></Cover>
       <Tabs defaultIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>
                 <TabList>
